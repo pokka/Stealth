@@ -1863,6 +1863,10 @@ Prefab:
       propertyPath: m_TagString
       value: Laser
       objectReference: {fileID: 0}
+    - target: {fileID: 8200000, guid: ce12981757c734b2bbaa81a693cf23e1, type: 2}
+      propertyPath: m_Volume
+      value: .5
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: ce12981757c734b2bbaa81a693cf23e1, type: 2}
   m_RootGameObject: {fileID: 803216794}
@@ -2378,7 +2382,7 @@ AudioSource:
   serializedVersion: 3
   m_audioClip: {fileID: 8300000, guid: c83d290580d9743409e4185fd2e1c647, type: 3}
   m_PlayOnAwake: 1
-  m_Volume: 1
+  m_Volume: .5
   m_Pitch: 1
   Loop: 1
   Mute: 0
@@ -3518,6 +3522,10 @@ Prefab:
       propertyPath: m_UseLightProbes
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 9500000, guid: 3b059b06d05c0e04ba42674f84feac25, type: 3}
+      propertyPath: m_Controller
+      value: 
+      objectReference: {fileID: 9100000, guid: 95420864b226b456f98389885404bcf4, type: 2}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 3b059b06d05c0e04ba42674f84feac25, type: 3}
   m_RootGameObject: {fileID: 685933858}
@@ -14936,7 +14944,7 @@ Animator:
   m_GameObject: {fileID: 685933858}
   m_Enabled: 1
   m_Avatar: {fileID: 9000000, guid: 3b059b06d05c0e04ba42674f84feac25, type: 3}
-  m_Controller: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 95420864b226b456f98389885404bcf4, type: 2}
   m_CullingMode: 1
   m_ApplyRootMotion: 1
   m_AnimatePhysics: 0
@@ -15481,6 +15489,10 @@ Prefab:
     - target: {fileID: 100000, guid: ce12981757c734b2bbaa81a693cf23e1, type: 2}
       propertyPath: m_TagString
       value: Laser
+      objectReference: {fileID: 0}
+    - target: {fileID: 8200000, guid: ce12981757c734b2bbaa81a693cf23e1, type: 2}
+      propertyPath: m_Volume
+      value: .5
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: ce12981757c734b2bbaa81a693cf23e1, type: 2}
@@ -17396,7 +17408,7 @@ AudioSource:
   serializedVersion: 3
   m_audioClip: {fileID: 8300000, guid: c83d290580d9743409e4185fd2e1c647, type: 3}
   m_PlayOnAwake: 1
-  m_Volume: 1
+  m_Volume: .5
   m_Pitch: 1
   Loop: 1
   Mute: 0
@@ -19167,6 +19179,10 @@ Prefab:
     - target: {fileID: 100000, guid: ce12981757c734b2bbaa81a693cf23e1, type: 2}
       propertyPath: m_TagString
       value: Laser
+      objectReference: {fileID: 0}
+    - target: {fileID: 8200000, guid: ce12981757c734b2bbaa81a693cf23e1, type: 2}
+      propertyPath: m_Volume
+      value: .5
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: ce12981757c734b2bbaa81a693cf23e1, type: 2}
@@ -28295,7 +28311,7 @@ AudioSource:
   serializedVersion: 3
   m_audioClip: {fileID: 8300000, guid: c83d290580d9743409e4185fd2e1c647, type: 3}
   m_PlayOnAwake: 1
-  m_Volume: 1
+  m_Volume: .5
   m_Pitch: 1
   Loop: 1
   Mute: 0
@@ -29007,6 +29023,10 @@ Prefab:
       propertyPath: m_TagString
       value: Laser
       objectReference: {fileID: 0}
+    - target: {fileID: 8200000, guid: ce12981757c734b2bbaa81a693cf23e1, type: 2}
+      propertyPath: m_Volume
+      value: .5
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: ce12981757c734b2bbaa81a693cf23e1, type: 2}
   m_RootGameObject: {fileID: 95847489}
@@ -29164,7 +29184,7 @@ AudioSource:
   serializedVersion: 3
   m_audioClip: {fileID: 8300000, guid: c83d290580d9743409e4185fd2e1c647, type: 3}
   m_PlayOnAwake: 1
-  m_Volume: 1
+  m_Volume: .5
   m_Pitch: 1
   Loop: 1
   Mute: 0
@@ -46488,7 +46508,7 @@ AudioSource:
   serializedVersion: 3
   m_audioClip: {fileID: 8300000, guid: c83d290580d9743409e4185fd2e1c647, type: 3}
   m_PlayOnAwake: 1
-  m_Volume: 1
+  m_Volume: .5
   m_Pitch: 1
   Loop: 1
   Mute: 0
@@ -49049,6 +49069,10 @@ Prefab:
     - target: {fileID: 100000, guid: ce12981757c734b2bbaa81a693cf23e1, type: 2}
       propertyPath: m_TagString
       value: Laser
+      objectReference: {fileID: 0}
+    - target: {fileID: 8200000, guid: ce12981757c734b2bbaa81a693cf23e1, type: 2}
+      propertyPath: m_Volume
+      value: .5
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: ce12981757c734b2bbaa81a693cf23e1, type: 2}
@@ -55968,7 +55992,7 @@ AudioSource:
   serializedVersion: 3
   m_audioClip: {fileID: 8300000, guid: c83d290580d9743409e4185fd2e1c647, type: 3}
   m_PlayOnAwake: 1
-  m_Volume: 1
+  m_Volume: .5
   m_Pitch: 1
   Loop: 1
   Mute: 0
@@ -61794,6 +61818,10 @@ Prefab:
     - target: {fileID: 100000, guid: ce12981757c734b2bbaa81a693cf23e1, type: 2}
       propertyPath: m_TagString
       value: Laser
+      objectReference: {fileID: 0}
+    - target: {fileID: 8200000, guid: ce12981757c734b2bbaa81a693cf23e1, type: 2}
+      propertyPath: m_Volume
+      value: .5
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: ce12981757c734b2bbaa81a693cf23e1, type: 2}
