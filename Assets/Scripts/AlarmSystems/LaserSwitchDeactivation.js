@@ -33,7 +33,7 @@ function LaserDeactivation ()
     // };
     laser.SetActive(false);
     // Store the renderer component of the screen.
-    var screen : Renderer = transform.Find("prop_switchUnit_screen_001").renderer;
+    var screen : Renderer = transform.Find("prop_switchUnit_screen").renderer;
 
     // Change the material of the screen to the unlocked material.
     screen.material = unlockedMat;
