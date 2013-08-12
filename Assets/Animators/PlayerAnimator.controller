@@ -285,7 +285,7 @@ State:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_Name: Sneak
-  m_Speed: 1
+  m_Speed: 1.70000005
   m_CycleOffset: 0
   m_Motions:
   - {fileID: 7400002, guid: a72fb85e2d133804d982acc9f29e67c7, type: 3}

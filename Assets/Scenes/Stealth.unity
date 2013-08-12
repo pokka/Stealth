@@ -14897,6 +14897,7 @@ GameObject:
   - 54: {fileID: 685933862}
   - 82: {fileID: 685933863}
   - 81: {fileID: 685933864}
+  - 114: {fileID: 685933865}
   m_Layer: 0
   m_Name: char_ethan
   m_TagString: Untagged
@@ -15026,6 +15027,20 @@ AudioListener:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 685933858}
   m_Enabled: 1
+--- !u!114 &685933865
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 685933858}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f9345f41d55cc42d4ad3571d03bf2764, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  shoutingClip: {fileID: 8300000, guid: f2e0ffd43812bf642a502c434b572c75, type: 3}
+  turnSmoothing: 15
+  speedDampTime: .100000001
 --- !u!1 &686514529
 GameObject:
   m_ObjectHideFlags: 0
