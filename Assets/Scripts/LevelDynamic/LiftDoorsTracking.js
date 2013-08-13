@@ -14,10 +14,10 @@ private var rightClosedPosX : float;        // The initial x component of positi
 function Awake ()
 {
     // Setting up the references.
-    leftOuterDoor = GameObject.Find("door_exitOuter_left_001").transform;
-    rightOuterDoor = GameObject.Find("door_exitOuter_right_001").transform;
-    leftInnerDoor = GameObject.Find("door_exitInner_left_001").transform;
-    rightInnerDoor = GameObject.Find("door_exitInner_right_001").transform;
+    leftOuterDoor = GameObject.Find("door_exit_outer_left_001").transform;
+    rightOuterDoor = GameObject.Find("door_exit_outer_right_001").transform;
+    leftInnerDoor = GameObject.Find("door_exit_inner_left_001").transform;
+    rightInnerDoor = GameObject.Find("door_exit_inner_right_001").transform;
 
     // Setting the closed x position of the doors.
     leftClosedPosX = leftInnerDoor.position.x;
