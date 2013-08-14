@@ -35,7 +35,7 @@ Chapter 4
 - [x] Enemy Setup
 - [x] Enemy Animator Controller
 - [x] Enemy Sight
-- [ ] Animator Setup
+- [x] Animator Setup
 - [ ] Enemy Animation
 - [ ] Enemy Shooting
 - [ ] Enemy AI
