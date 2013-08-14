@@ -38,5 +38,7 @@ Chapter 4
 - [x] Animator Setup
 - [x] Enemy Animation
 - [x] Enemy Shooting
-- [ ] Enemy AI
-- [ ] Stretch Goals
+- [x] Enemy AI
+
+Stretch Goals
+--------------------------
