@@ -54242,6 +54242,7 @@ GameObject:
   - 54: {fileID: 1662234656}
   - 195: {fileID: 1662234657}
   - 114: {fileID: 1662234658}
+  - 114: {fileID: 1662234659}
   m_Layer: 0
   m_Name: char_robotGuard
   m_TagString: Enemy
@@ -54336,6 +54337,18 @@ MonoBehaviour:
   fieldOfViewAngle: 110
   playerInSight: 0
   personalLastSighting: {x: 0, y: 0, z: 0}
+--- !u!114 &1662234659
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1662234652}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e8262fdbb2f1b4ec2b14a11737e663c7, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  deadZone: 5
 --- !u!1 &1663935188
 GameObject:
   m_ObjectHideFlags: 0
