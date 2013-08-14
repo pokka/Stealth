@@ -35,8 +35,8 @@ Chapter 4
 - [x] Enemy Setup
 - [x] Enemy Animator Controller
 - [x] Enemy Sight
-- [x] Animator Setup
-- [x] Enemy Animation
-- [x] Enemy Shooting
-- [x] Enemy AI
+- [ ] Animator Setup
+- [ ] Enemy Animation
+- [ ] Enemy Shooting
+- [ ] Enemy AI
 - [ ] Stretch Goals
