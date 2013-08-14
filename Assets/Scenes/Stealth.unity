@@ -17716,8 +17716,8 @@ GameObject:
   - 54: {fileID: 685933862}
   - 82: {fileID: 685933863}
   - 81: {fileID: 685933864}
-  - 114: {fileID: 685933865}
   - 114: {fileID: 685933866}
+  - 114: {fileID: 685933865}
   - 114: {fileID: 685933867}
   m_Layer: 0
   m_Name: char_ethan
@@ -17875,7 +17875,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   health: 100
   resetAfterDeathTime: 5
-  deathClip: {fileID: 0}
+  deathClip: {fileID: 8300000, guid: 3c77607d75e1d9e44a5f856caf15a81b, type: 3}
 --- !u!114 &685933867
 MonoBehaviour:
   m_ObjectHideFlags: 0
