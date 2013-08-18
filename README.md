@@ -42,3 +42,12 @@ Chapter 4
 
 Stretch Goals
 --------------------------
+Congratulations on completing the Stealth tutorials. If you want to push yourself, why not have a go as some or all of these Stretch Goals? There aren't any videos to help you with these, just rely on what you've learnt so far and check the videos and documentation if you get stuck.
+
+- [ ] **Make the player work for joypads/joysticks**
+  <p>For this you might want to consider:</p>
+  - The input manager - are new axes required?
+  - The PlayerMovement script - if axis input is no longer digital, does Speed allocation have to be?
+  - The Animator Controller - if Speed is no longer digital, we need to blend between walking and running.
+  - If axis input alone can determine how fast we’re moving, do we still need a sneak parameter?
+  - If we don’t have a sneak parameter, how do we know when the enemies can hear footsteps and when they can’t?
